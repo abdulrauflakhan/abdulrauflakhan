@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulrauflakhan
+- 👋 Hi, I’m abdulrauf
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
