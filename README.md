@@ -1,10 +1,10 @@
-- 👋 Hi, I’m abdulrauf
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdul Rauf
+- 👀 I’m interested in Programming
+- 🌱 I’m currently studying in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
+- 💞️ I’m looking to collaborate on ... game development & other projects related to C++ and Python
+- 📫 How to reach me ... abdulrauflakhan97@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Programmer, Undergraduate Student, Computer Science backgroud...
 
 <!---
 abdulrauflakhan/abdulrauflakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
